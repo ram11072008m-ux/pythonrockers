@@ -1,0 +1,2 @@
+mydict={"NAME":"ram\n","AGE":"19"}
+print(mydict)
